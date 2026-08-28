@@ -1,2 +1,25 @@
-# calculator
-A simple and responsive calculator application designed to perform basic arithmetic operations with a clean and intuitive user interface. Built to practice JavaScript fundamentals, including DOM manipulation, event handling, functions, and mathematical operations.
+## Preview
+![Calculator App](assets/calcualtor%20sample.png)
+
+## Calculator
+A simple calculator built with plain HTML, CSS, and JavaScript — styled to look like a small physical device with a retro LCD screen and tactile buttons.
+
+## Features
+
+* Basic operations: addition, subtraction, multiplication, division
+* Decimal point input
+* Sign toggle (±)
+* Percent conversion (%)
+* Clear (AC)
+* Keyboard support:
+* 0–9 — enter digits
+* . — decimal point
+* addition(+) subtraction(-) multiplication(*) division(/) — operators
+* Enter or = — calculate
+* Backspace — delete last digit
+* Esc — clear all
+* Responsive layout (works down to small mobile widths)
+* No dependencies — a single self-contained HTML file
+
+## License
+Free to use, modify, and share.
