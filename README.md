@@ -21,5 +21,10 @@ A simple calculator built with plain HTML, CSS, and JavaScript — styled to loo
 * Responsive layout (works down to small mobile widths)
 * No dependencies — a single self-contained HTML file
 
+## Technologies
+
+* HTML, CSS, JavaSscript
+
+
 ## License
 Free to use, modify, and share.
